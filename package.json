@@ -10,7 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "react-router": "^2.4.1"
   },
   "devDependencies": {
     "source-map-loader": "^0.1.5",
